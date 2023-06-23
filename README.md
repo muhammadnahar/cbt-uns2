@@ -8,8 +8,16 @@
 
 ## File Aplikasi Ujian CBT UNS :
 
-1. Aplikasi Ujian CBT (SEB) --> **CBTUNS_v2.1.seb** 
-4. Installer SEB. Rekomendasi menggunakan versi 3.4.1 atau yang terbaru. optional menggunakan versi 2.4.1 (untuk windows 7)
+1. Aplikasi Ujian CBT UNS --> **[CBTUNS_v2.1.seb](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/CBTUNS_v2.1.seb)**
+2. Installer SEB --> Rekomendasi menggunakan versi 3.4.1 atau yang terbaru. optional menggunakan versi 2.4.1 (untuk windows 7)
+
+   2.1. **[SEB_3.4.1.exe](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/SEB_3.4.1.exe)**
+
+   2.2. **[SEB_3.5.0.exe](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/SEB_3.5.0.exe)** (terbaru)
+
+   2.3. **[SEB_2.4.1.exe](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/SEB_2.4.1.exe)**
+
+   2.4. **[Dotnet_4.5.exe](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/dotnet_4.5.exe)**
 
 
 ## Langkah Installasi :
