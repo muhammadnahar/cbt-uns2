@@ -13,9 +13,9 @@
 
    2.1. **[SEB_3.4.1.exe](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/SEB_3.4.1.exe)**
 
-   2.2. **[SEB_3.5.0.exe](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/SEB_3.5.0.exe)** (terbaru)
+   2.2. **[SEB_3.5.0.exe](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/SEB_3.5.0.exe)** (Terbaru)
 
-   2.3. **[SEB_2.4.1.exe](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/SEB_2.4.1.exe)**
+   2.3. **[SEB_2.4.1.exe](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/SEB_2.4.1.exe)** (Windows 7)
 
    2.4. **[Dotnet_4.5.exe](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/dotnet_4.5.exe)**
 
