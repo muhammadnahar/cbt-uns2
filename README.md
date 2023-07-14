@@ -1,16 +1,17 @@
 # Aplikasi CBT UNS (2 Perangkat)
 
 ## Menggunakan 2 Perangkat :
-1.  **Handphone** --> untuk aplikasi Zoom.
+1. **Handphone** --> untuk aplikasi Zoom.
 2. **Laptop** --> untuk aplikasi CBT (Ujian).
 
 ![image](https://user-images.githubusercontent.com/15359262/173980129-5f510747-23a8-4b92-90fc-0b08d9c6caa3.png)
 
 ## File Aplikasi Ujian CBT UNS :
 
-1. Aplikasi Ujian CBT UNS --> **[CBT-UNS.v3.1.seb](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/CBT-UNS.v3.1.seb)**
-2. Installer SEB --> **[SEB_3.5.0.exe](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/SEB_3.5.0.exe)** (Rekomendasi menggunakan OS **Windows 8.1, Windows 10**, atau **Windows 11**) 
-3. **[Dotnet_4.5.exe](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/dotnet_4.5.exe)** (Optional jika dibutuhkan untuk diinstall)
+1. File konfigurasi CBT UNS --> **[CBT-UNS.v3.1.seb](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/CBT-UNS.v3.1.seb)**
+2. Installer SEB
+   - Windows **[SEB_3.5.0.exe](https://github.com/SafeExamBrowser/seb-win-refactoring/releases/download/v3.5.0/SEB_3.5.0.544_SetupBundle.exe)** dan **[dotnet_4.5.exe](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/dotnet_4.5.exe)**
+   - macOS **[SEB_3.2.5.dmg](https://github.com/SafeExamBrowser/seb-mac/releases/download/3.2.5/SafeExamBrowser-3.2.5.dmg)**
 
 
 ## Langkah Installasi :
