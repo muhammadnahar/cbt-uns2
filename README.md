@@ -8,15 +8,15 @@
 
 ## File Aplikasi Ujian CBT UNS :
 
-1. Aplikasi Ujian CBT UNS --> **[CBT-UNS.v4.1.seb](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/CBT-UNS.v4.1.seb)**
-2. Installer SEB --> **[SEB_3.5.0.exe](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/SEB_3.5.0.exe)** (Rekomendasi menggunakan OS **Windows 8.1, Windows 10**, atau **Windows 11**) 
+1. Aplikasi Ujian CBT UNS --> **[CBT-UNS.v5.1.seb](https://uns.id/files/CBT_UNS/CBT-UNS.v5.1.seb)**
+2. Installer SEB --> **[SafeExamBrowserInstaller3.8.0.exe](https://uns.id/files/CBT_UNS/SafeExamBrowserInstaller3.8.0.exe)** (Rekomendasi menggunakan OS **Windows 10**, atau **Windows 11**) 
 3. **[Dotnet_4.5.exe](https://github.com/muhammadnahar/cbt-uns2/releases/download/file-cbt2/dotnet_4.5.exe)** (Optional jika dibutuhkan untuk diinstall)
 
 
 ## Langkah Installasi :
 
 1. Install **SEB**
-2. Jalankan aplikasi CBT dengan cara klik 2x file **CBT-UNS.v4.1.seb**
+2. Jalankan aplikasi CBT dengan cara klik 2x file **CBT-UNS.v5.1.seb**
 
 ### Catatan :
 
